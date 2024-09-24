@@ -1,0 +1,27 @@
+.availability {
+  padding: 4rem 1rem;
+  background: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px);
+
+  h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    color: #333;
+  }
+
+  &__container {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+
+    p {
+      font-size: 1.2rem;
+      color: #555;
+    }
+
+    strong {
+      color: #007acc;
+    }
+  }
+}

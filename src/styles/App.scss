@@ -1,0 +1,21 @@
+@import './_variables.scss';
+@import './components/Header.scss';
+@import './components/Profile.scss';
+@import './components/Skills.scss';
+@import './components/Education.scss';
+@import './components/Projects.scss';
+@import './components/Languages.scss';
+@import './components/Availability.scss';
+@import './components/Footer.scss';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #fff;
+  color: #333;
+}
+
