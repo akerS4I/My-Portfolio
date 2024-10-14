@@ -6,7 +6,7 @@ const Availability = () => {
       <h2>Availability</h2>
       <div className="availability__container">
         <p>
-          Available to start work from <strong>October 4, 2024</strong>.
+          Available to start work from <strong></strong>.
         </p>
       </div>
     </section>
